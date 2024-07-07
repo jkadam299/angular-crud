@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "employess": [
+    {
+      "firstname": "Akshay",
+      "lastname": "Kadam",
+      "email": "a@gmail.com",
+      "dob": "2024-01-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "tcs",
+      "exp": 4,
+      "package": 20,
+      "id": 3
+    },
+    {
+      "firstname": "Mayur",
+      "lastname": "Sheth",
+      "email": "m@gmail.com",
+      "dob": "2024-01-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "post Graduate",
+      "company": "Hcl",
+      "exp": 2,
+      "package": 12,
+      "id": 5
+    }
+  ]
+}
